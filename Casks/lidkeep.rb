@@ -1,11 +1,11 @@
 cask "lidkeep" do
-  version "2.2.1"
-  sha256 "ad3af21aefdb660032a5395d902c0c59cd86980aabfce21f417efe484881976c"
+  version "2.2.2"
+  sha256 "2f4db93721e4e604499c8979042036d09dd5342f4321beead4ae90a23a609f18"
 
-  url "https://github.com/Mihooni/lidkeep/releases/download/v#{version}/LidKeep-#{version}.dmg"
+  url "https://github.com/Hoodas101/lidkeep/releases/download/v#{version}/LidKeep-#{version}.dmg"
   name "LidKeep"
   desc "Turn the display off without sleeping the Mac, and keep it running with the lid closed"
-  homepage "https://github.com/Mihooni/lidkeep"
+  homepage "https://github.com/Hoodas101/lidkeep"
 
   livecheck do
     url :url
