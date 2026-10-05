@@ -34,5 +34,5 @@ If this project saves you time, buying me a coffee keeps it going ☕
 </p>
 
 **Elsewhere in the world?** These QR codes need a WeChat or Alipay account with a mainland
-bank card, so they won't work for everyone. An international option (card / PayPal) is on the
-way — until then, a ⭐ star or a bug report helps this project more than you might think.
+bank card, so they won't work for everyone. **[GitHub Sponsors](https://github.com/sponsors/Hoodas101)**
+takes a card — and a ⭐ star or a bug report helps this project more than you might think.
