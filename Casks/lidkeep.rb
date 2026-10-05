@@ -1,6 +1,6 @@
 cask "lidkeep" do
-  version "2.2.2"
-  sha256 "2f4db93721e4e604499c8979042036d09dd5342f4321beead4ae90a23a609f18"
+  version "2.2.5"
+  sha256 "4b39454782fd0c9cfe4bbf8d25ef234f7b49fa7b5f597526d1e4b1df868b611b"
 
   url "https://github.com/Hoodas101/lidkeep/releases/download/v#{version}/LidKeep-#{version}.dmg"
   name "LidKeep"

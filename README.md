@@ -1,11 +1,11 @@
-# Mihooni's Homebrew tap
+# Hoodas101's Homebrew tap
 
 ## LidKeep
 
 Turn the display off without sleeping the Mac, and keep it running with the lid closed.
 
 ```bash
-brew install --cask mihooni/tap/lidkeep
+brew install --cask hoodas101/tap/lidkeep
 ```
 
 ### One extra step, for now
@@ -22,7 +22,7 @@ Homebrew cannot skip this (`--no-quarantine` no longer exists in Homebrew 6), an
 cask cannot disable quarantine on the user's behalf. **Notarized builds will remove this
 step entirely** — it is the single highest-priority item upstream.
 
-Upstream: <https://github.com/Mihooni/lidkeep>
+Upstream: <https://github.com/Hoodas101/lidkeep>
 
 ## Support this project
 
